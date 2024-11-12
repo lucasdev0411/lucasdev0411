@@ -22,4 +22,4 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div><br/>
 
-Sou um dev jovem em aprendizado, preciso de dicas de como se desenvolver em uma carreira como dev e procuro mostrar meus projetos e minhas evoluções aqui!
+Sou um Dev em aprendizado constante, tecnologia é a minha paixão, busco evoluir e desenvolver os melhores projetos.
