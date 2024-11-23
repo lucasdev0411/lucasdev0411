@@ -5,7 +5,7 @@
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![Lucas Vasconcelos GitHub status](https://github-readme-stats.vercel.app/api?username=devvasgabriel&show_icons=true&theme=dracula)
+![Lucas Vasconcelos GitHub status](https://github-readme-stats.vercel.app/api?username=lucasdev0411&show_icons=true&theme=dracula)
 
 Tecnologias que eu uso no meu dia
 <div syle="display: inline_block"><br/>
